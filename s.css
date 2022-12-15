@@ -1,7 +1,7 @@
 .cont {
     background: linear-gradient(70deg, rgb(137, 19, 247), rgb(113, 5, 202));
     width: 70vw;
-    height: 285%;
+    height: 230%;
     left: 200px;
     align-items: center;
     position: absolute;
@@ -18,7 +18,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    height: 300%;
+    height: 237%;
 }
 .hh{
     color: #070707;
