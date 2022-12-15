@@ -1,7 +1,7 @@
 .cont {
-    background: linear-gradient(70deg, rgb(137, 19, 247), rgb(113, 5, 202));
+    background: linear-gradient(70deg, rgb(218, 187, 247), rgb(233, 217, 247));
     width: 70vw;
-    height: 230%;
+    height: 335%;
     left: 200px;
     align-items: center;
     position: absolute;
@@ -11,6 +11,7 @@
     -webkit-border-radius: 10px;
     -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
     -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+    padding: 1%;
 }
 .pa {
     position: absolute;
@@ -18,7 +19,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    height: 250%;
+    height: 345%;
 }
 .hh{
     color: #070707;
@@ -37,7 +38,9 @@
     float: top;
 }
 .tp {
+    margin: 3%;
     color: #070707;
+    
 }
 .pp{
     -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
@@ -45,33 +48,53 @@
 .bb{
     color: #070707;
     margin: 2%;
-    padding: 2%;
-    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    width: 100%; 
+    float: left;
 }
 .nn{
+    float: left;
+    width: 100%; 
     margin: 2%;
     padding: 2%;
     color: #070707;
-    
 }
 .col-11{
-    width: 50%; 
+    width: 43%; 
     float: left;
+    padding: 3%;
 }
 .col-12{
-    width: 50%; 
+    width: 43%; 
     float: left;
+    padding: 3%;
 }
 .col-21{
-    width: 50%; 
+    width: 43%; 
     float: left;
+    padding: 3%;
 }
 .col-22{
-    width: 50%; 
+    width: 43%; 
     float: left;
+    padding: 3%;
 }
 .ff{
     margin: 2%;
     padding: 16%;
     margin-top: 5%;
+}
+.kn{
+    margin: 2%;
+    color: #000;
+}
+.o2 {
+    padding: 2%;
+    width: 45%; 
+    float: left;
+}
+.o1 {
+    padding: 2%;
+    width: 45%; 
+    float: left;
 }
