@@ -1,0 +1,77 @@
+.cont {
+    background: linear-gradient(70deg, rgb(137, 19, 247), rgb(113, 5, 202));
+    width: 70vw;
+    height: 285%;
+    left: 200px;
+    align-items: center;
+    position: absolute;
+    top:30px;
+    bottom: 30px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+}
+.pa {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 300%;
+}
+.hh{
+    color: #070707;
+    font-family: 'Robo', sans-serif; 
+    font: size 72px;;
+    font-weight:bold;
+    padding-bottom: calc(5px + 0.1em);
+    border-bottom: calc(0.2px + 0.05em) solid #070707;
+}
+.header {
+    margin: 2%; ;
+    color: rgb(2, 2, 2);
+}
+.ph {
+    margin: 2%;
+    float: top;
+}
+.tp {
+    color: #070707;
+}
+.pp{
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+.bb{
+    color: #070707;
+    margin: 2%;
+    padding: 2%;
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+}
+.nn{
+    margin: 2%;
+    padding: 2%;
+    color: #070707;
+    
+}
+.col-11{
+    width: 50%; 
+    float: left;
+}
+.col-12{
+    width: 50%; 
+    float: left;
+}
+.col-21{
+    width: 50%; 
+    float: left;
+}
+.col-22{
+    width: 50%; 
+    float: left;
+}
+.ff{
+    margin: 2%;
+    padding: 16%;
+    margin-top: 10%;
+}
