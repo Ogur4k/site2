@@ -1,10 +1,13 @@
+.parent{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
 .cont {
     background: linear-gradient(70deg, rgb(218, 187, 247), rgb(233, 217, 247));
     width: 80vw;
-    height: 550vh;
+    height: 480vh;
     margin-bottom: calc(2px + 2vh);
-    margin-left: 5vh;
-    margin-right: 8vh;
     align-items: center;
     position: absolute;
     top: 4%;
@@ -22,6 +25,20 @@
     bottom: 0;
     
 }
+.mm{
+    float: left;
+}
+.ll{
+    padding: 2%;
+    width: 58vw; 
+    float: left;
+    height: 26vh;
+}
+.pr{
+    float: left;
+    width: 100%;
+    color: rgb(218, 187, 247);
+}
 .hh{
     color: #070707;
     font-family: 'Robo', sans-serif; 
@@ -38,10 +55,13 @@
 .naz{
     font-size: 3vh;
 }
+.nazaz{
+    font-size: 4vh;
+    color: #000;
+}
 .ph {
     font-size: 2vh;
     margin: 2%;
-    float: top;
 }
 .tp {
     margin: 3%;
@@ -49,8 +69,8 @@
     
 }
 .pp{
-    width: 25vh;
-    height: 28vh;
+    width: 23vh;
+    height: 26vh;
     -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
 }
 .bb{
